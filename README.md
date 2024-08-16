@@ -1,1 +1,3 @@
 # resume_text_extraction_ocr
+
+This repository contains both the PDF Screenshots related files and OCR text extraction files...
