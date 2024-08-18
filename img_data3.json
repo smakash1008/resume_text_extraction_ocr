@@ -1,0 +1,249 @@
+{
+    "Name": "Mohammad A Rahman",
+    "Email Address": "rahman.opensourcedb@gmail.com",
+    "Phone Number": "+91-8861349278",
+    "Skills": [
+        "Oracle Database",
+        "Exadata DB",
+        "Golden Gate",
+        "PostgreSQL",
+        "Cloud Solution Architect",
+        "OEM",
+        "Oracle Veridata",
+        "PGAdmin",
+        "Datadog",
+        "PG extensions",
+        "Cloud EC2",
+        "RDS",
+        "Route 53",
+        "RMAN",
+        "AWR",
+        "Linux",
+        "Shell",
+        "Python",
+        "SQL",
+        "PLSQL",
+        "multitenant database",
+        "RAC",
+        "Oracle Data guard",
+        "AWS",
+        "OCI Cloud services",
+        "SQL Developer",
+        "Toad",
+        "OEM 13c",
+        "JIRA Dashboard",
+        "Remedy ticketing tools",
+        "UNIX (AIX, HP-UX, Solaris)",
+        "Linux (Red Hat) platform"
+    ],
+    "Total Years Of Experience": "16",
+    "Work Domain": [
+        "healthcare",
+        "manufacturing",
+        "finance",
+        "telecom",
+        "retail"
+    ],
+    "Work Experience": [
+        "Virtusa Private Limited",
+        "Collabera Technologies Private Limited",
+        "NTTDATA",
+        "IBM India PVT Ltd",
+        "Primus Global Solution Ltd",
+        "Apps Associates",
+        "Envision Enterprise Solution",
+        "Introlligent Solutions PVT Ltd",
+        "IBM Daksh Pvt. Ltd.",
+        "Globerian India Pvt. Ltd",
+        "Matrix Processing House"
+    ],
+    "Date of Birth": "NOT AVAILABLE",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": [
+        "English"
+    ],
+    "Education Details": [
+        {
+            "Educational Institution": "NOT AVAILABLE",
+            "Education Course": "MCA",
+            "Education Branch": "Computer Application",
+            "Graduation Year": "NOT AVAILABLE",
+            "Exam Percentage": "NOT AVAILABLE"
+        }
+    ],
+    "Courses and Certification": [
+        "AWS Certified Solutions Architect Associate (SAA-CO3)",
+        "Oracle Database Administrator Certified Professional (OCP)",
+        "Oracle Database Administrator Certified Associate (OCA)",
+        "Oracle Database Certified SQL Expert"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "British Telecom — Cloud Migration and DB Replication",
+            "Project Description": "Development & Migration databases to Cloud Environments",
+            "Project Roles": "Database Architect",
+            "Project Duration": "Nov 2020 — Present",
+            "Project Domain": "Telecom",
+            "Project Technologies": [
+                "Oracle 11g",
+                "Multitenant 12/19c",
+                "OEM",
+                "Golden Gate",
+                "PostgresSOL",
+                "AWS/GCP Cloud infra"
+            ]
+        },
+        {
+            "Project Name": "INTUIT — Cloud Migration",
+            "Project Description": "Development & Migration databases to AWS Cloud Environment",
+            "Project Roles": "Database Architect",
+            "Project Duration": "Oct 2019 to Jul 2020",
+            "Project Domain": "Finance",
+            "Project Technologies": [
+                "Oracle Database 10/119",
+                "12/19¢",
+                "OEM",
+                "Golden Gate",
+                "PostgreSOL Database",
+                "Cassandra NoSOL Database",
+                "Amazon Redshift database",
+                "AWS Cloud services",
+                "Storage",
+                "EC2",
+                "RDS",
+                "network Route 53 Cloud Front",
+                "Global accelerator"
+            ]
+        },
+        {
+            "Project Name": "NTTDATA — Cloud Migration",
+            "Project Description": "Migrate DB from on-premises to Oracle Cloud infrastructure",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "AUG 2019 — SEPT 2019",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle 10/11g",
+                "18¢ automated DB",
+                "RMAN",
+                "DATAPUMP",
+                "Oracle Cloud Infra(OCl)"
+            ]
+        },
+        {
+            "Project Name": "Shop Direct Group-IBM Cloud",
+            "Project Description": "Migrate application databases and provide POC for data lacking issues.",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "APRIL2017 to JAN 2019",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10/11g",
+                "12¢",
+                "SOL Server Database",
+                "Golden Gate",
+                "Veri-data",
+                "Linux",
+                "AWS Cloud Infra",
+                "JIRA"
+            ]
+        },
+        {
+            "Project Name": "Wipro Technology — Baxter",
+            "Project Description": "Migrate Database to Cloud Control and Exadata admin",
+            "Project Roles": "Senior Database Administrator",
+            "Project Duration": "NOV2016 to MAR2017",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle DB12¢ EM 13¢ Cloud Control",
+                "Exa-Data X4-2"
+            ]
+        },
+        {
+            "Project Name": "IBM—AT & T",
+            "Project Description": "Migrate DBs to Oracle new version machine and Goldengate configuration",
+            "Project Roles": "Oracle Apps DBA",
+            "Project Duration": "MAR 2015 to OCT 2016",
+            "Project Domain": "Telecom",
+            "Project Technologies": [
+                "Oracle DB 10/11gG/12c",
+                "RAC",
+                "Golden Gate",
+                "ongoDB",
+                "SOL Server",
+                "Micro-Service"
+            ]
+        },
+        {
+            "Project Name": "Magma Fincorp",
+            "Project Description": "Migrate databases from non-RAC environments to Exadata 2-node RAC platform.",
+            "Project Roles": "Consultant",
+            "Project Duration": "SEPT 2014 to FEB 2015",
+            "Project Domain": "Finance",
+            "Project Technologies": [
+                "Oracle 11g DB",
+                "RAC",
+                "X2-X4 Exadata",
+                "HP-Linux",
+                "Golden Gate"
+            ]
+        },
+        {
+            "Project Name": "Apps Associate — IKEA",
+            "Project Description": "Database replication and integration",
+            "Project Roles": "Consultant",
+            "Project Duration": "JAN 2014 to AUG 2014",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10/119",
+                "Golden Gate",
+                "Veridata",
+                "E-Business Suite 12.1",
+                "SOA 11g",
+                "Fusion Applications"
+            ]
+        },
+        {
+            "Project Name": "Walgreens —ETL & Data movement",
+            "Project Description": "Database replication and integration",
+            "Project Roles": "Oracle Golden Gate DBA",
+            "Project Duration": "OCT 2012 to JAN 2014",
+            "Project Domain": "Retail",
+            "Project Technologies": [
+                "Oracle 10/119",
+                "Golden Gate",
+                "JMS Queues",
+                "Flat Files integration",
+                "RAC 2-nodes",
+                "NAS share storage"
+            ]
+        },
+        {
+            "Project Name": "Apple Inc",
+            "Project Description": "Working as a Oracle Database Administrator",
+            "Project Roles": "Oracle DBA",
+            "Project Duration": "MAY 2011 to AUG 2012",
+            "Project Domain": "manufacturing",
+            "Project Technologies": [
+                "Oracle 10/119",
+                "Grid",
+                "Golden Gate",
+                "Linux",
+                "Sun Solaris Exadata V2",
+                "X2 (RAC 8-nodes)",
+                "Toad",
+                "SOL Developer"
+            ]
+        },
+        {
+            "Project Name": "UHG — Healthcare Medical Insurance",
+            "Project Description": "ealth Care Medical coding and billing",
+            "Project Roles": "ealthcare Business Analyst",
+            "Project Duration": "Jan 2008 to Jun 2010",
+            "Project Domain": "Healthcare",
+            "Project Technologies": [
+                "Oracle E-Business Application"
+            ]
+        }
+    ]
+}

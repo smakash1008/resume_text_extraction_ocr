@@ -1,0 +1,116 @@
+{
+    "Name": "ANIRUDHA PADHY",
+    "Email Address": "padhyanirudha@yahoo.in",
+    "Phone Number": "+91-8123950380",
+    "Skills": [
+        "Oracle Database",
+        "Oracle Golden Gate 12c",
+        "Cloud Migration",
+        "Data Mapping",
+        "Data Dictionary",
+        "Oracle Database 12c",
+        "Oracle Database 18c",
+        "Oracle Database 19c",
+        "Autonomous Database",
+        "Exadata X8-2",
+        "JIRA",
+        "Service Now",
+        "AWR",
+        "SQLT",
+        "SQLHC",
+        "COE",
+        "AHF",
+        "ITIL",
+        "RMAN",
+        "AWS RDS",
+        "AWS S3",
+        "OCI console",
+        "Object Storage",
+        "ASM",
+        "RAC Database",
+        "OEM",
+        "OCM",
+        "SQL Plan Transport",
+        "SBM",
+        "SPM",
+        "Histogram",
+        "SQL Patch",
+        "SQL Profile",
+        "TKPROF",
+        "Secure CRT",
+        "SQL Tuning Advisor",
+        "SQL Tune Task",
+        "Expdp",
+        "Impdp"
+    ],
+    "Total Years Of Experience": "9.7",
+    "Work Domain": "DBA",
+    "Work Experience": [
+        "Oracle India Ltd",
+        "Accenture Solution Pvt. Ltd."
+    ],
+    "Date of Birth": "3rd March 1987",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "NOT AVAILABLE",
+    "Nationality": "NOT AVAILABLE",
+    "Languages": [
+        "English",
+        "Hindi",
+        "Oriya"
+    ],
+    "Education Details": [
+        {
+            "Educational Institution": "Indira Gandhi National Open University",
+            "Education Course": "mca",
+            "Education Branch": "Computer Application",
+            "Graduation Year": "2013",
+            "Exam Percentage": "NOT AVAILABLE"
+        },
+        {
+            "Educational Institution": "Indira Gandhi National Open University",
+            "Education Course": "Bca",
+            "Education Branch": "Computer Application",
+            "Graduation Year": "2011",
+            "Exam Percentage": "NOT AVAILABLE"
+        }
+    ],
+    "Courses and Certification": [
+        "Oracle Autonomous Database Specialist",
+        "Oracle Golden Gate 12c Certified Implementation Specialist"
+    ],
+    "Project Details": [
+        {
+            "Project Name": "Cloud Infrastructure Construction Project",
+            "Project Description": "Migrated Multi-terabyte (TB) Analytics and Reporting database Systems to Oracle 12cR2 to 18c/19c Real Application Clusters (RAC) on Storage Area Network (SAN) running on the Linux Platforms.",
+            "Project Roles": "Senior Cloud DB Migration Engineer",
+            "Project Duration": "Mar’20 - Till Date",
+            "Project Domain": "Cloud Infrastructure Construction",
+            "Project Technologies": [
+                "Oracle 12c",
+                "Oracle 18c",
+                "Oracle 19c",
+                "RAC",
+                "Autonomous Database",
+                "LINUX",
+                "Kubernetes Cluster"
+            ]
+        },
+        {
+            "Project Name": "Shared Cloud Service",
+            "Project Description": "Managed and monitored Oracle Users, Roles, and Privileges & and created Database Objects, Data File Objects including Tablespace and Data Files, Object Sizing",
+            "Project Roles": "Cloud Operation Analyst",
+            "Project Duration": "Jan’15-Mar’20",
+            "Project Domain": "Shared Cloud Service",
+            "Project Technologies": [
+                "Oracle 8i",
+                "Oracle 9i",
+                "Oracle 10g",
+                "Oracle 11g",
+                "Oracle 12c",
+                "RAC",
+                "Postgre",
+                "LINUX"
+            ]
+        }
+    ]
+}

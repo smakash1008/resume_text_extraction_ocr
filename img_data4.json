@@ -1,0 +1,144 @@
+{
+    "Name": "Dayanithi S",
+    "Email Address": "NOT AVAILABLE",
+    "Phone Number": "NOT AVAILABLE",
+    "Skills": [
+        "Selenium-Java",
+        "TestNG",
+        "maven",
+        "Log4j2",
+        "Extent Reporting",
+        "BDD Cucumber",
+        "GIT",
+        "Appium-Java",
+        "Azure Repo Git",
+        "Android Studio",
+        "Appium Studio",
+        "Real Device",
+        "UJAutomatorz",
+        "REST Assured Java",
+        "Log4j",
+        "Microsoft Azure Repo GIT",
+        "Azure Pipelines",
+        "Jenkins",
+        "Saucelabs",
+        "Jira",
+        "SVN",
+        "SauceLabs",
+        "Chrome",
+        "Firefox",
+        "Edge",
+        "IE",
+        "Safari",
+        "Azure Test Plan",
+        "Confluence",
+        "HP ALM/HP Quality Center",
+        "Cypress",
+        "Salesforce",
+        "Oracle 12c",
+        "Oracle Sql Developer 4.0.1",
+        "Oracle 11g",
+        "UFT 12.50",
+        "TNE",
+        "GRANITE"
+    ],
+    "Total Years Of Experience": "11 years",
+    "Work Domain": [
+        "Ecommerce",
+        "US Healthcare product",
+        "Trading & Securities application",
+        "telecom interface"
+    ],
+    "Work Experience": [
+        "Benefithub, Chennai",
+        "Athena Health India Tech Pvt Ltd, Chennai",
+        "Wipro Technologies, Chennai"
+    ],
+    "Date of Birth": "07-Jan-1989",
+    "Gender": "NOT AVAILABLE",
+    "Marital Status": "Single",
+    "Nationality": "Indian",
+    "Languages": [
+        "Tamil",
+        "English"
+    ],
+    "Education Details": {
+        "Educational Institution": "University of Madras, Chennai",
+        "Education Course": "Master of Computer Application (MCA)",
+        "Education Branch": "NOT AVAILABLE",
+        "Graduation Year": "NOT AVAILABLE",
+        "Exam Percentage": "70%"
+    },
+    "Courses and Certification": [],
+    "Project Details": [
+        {
+            "Project Name": "Benefit Hub",
+            "Project Description": "Benefit Hub is the global market leader in delivering the kinds of everyday discounts and benefits that employees really want. And because we’ve been doing this for over two decades - for many of the world’s largest and most demanding companies it’s something we’re pretty good at.",
+            "Project Roles": "Test Automation Team Lead",
+            "Project Duration": "21- Apr - 19 to Till Date",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "Kanban",
+                "JIRA",
+                "Appium TestNG",
+                "Cloud Test",
+                "SauceLabs",
+                "Extent Reports",
+                "GIT",
+                "CI/CD",
+                "MS Azure"
+            ]
+        },
+        {
+            "Project Name": "AthenaNet",
+            "Project Description": "AthenaNet is a Cloud based EHR which includes various features like managing the patient’s data and their results and providing Meaning Use measure to the government.",
+            "Project Roles": "Test Engineer",
+            "Project Duration": "03- Apr - 17 to Mar 2019",
+            "Project Domain": "NOT AVAILABLE",
+            "Project Technologies": [
+                "EHR",
+                "ICD10",
+                "EDI",
+                "EDI 837",
+                "EDI 835",
+                "HIPAA",
+                "Salesforce",
+                "JIRA",
+                "Selenium WebDriver",
+                "TestNG",
+                "selenium Grid",
+                "Maven Jenkins",
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Jenkins",
+                "Cucumber BDD framework",
+                "Page Object Model",
+                "Selenium Webdriver"
+            ]
+        },
+        {
+            "Project Name": "State Street",
+            "Project Description": "NOT AVAILABLE",
+            "Project Roles": "Test Engineer",
+            "Project Duration": "09- Nov - 10 to 23- Mar - 17",
+            "Project Domain": "Trading Application",
+            "Project Technologies": [
+                "Sql",
+                "SDLC",
+                "HP ALM",
+                "Quality Center"
+            ]
+        },
+        {
+            "Project Name": "Level 3 - Telecom Unity Application, Migrated user interface",
+            "Project Description": "NOT AVAILABLE",
+            "Project Roles": "Project Engineer",
+            "Project Duration": "NOT AVAILABLE",
+            "Project Domain": "Telecom",
+            "Project Technologies": [
+                "TNE",
+                "GRANITE"
+            ]
+        }
+    ]
+}
