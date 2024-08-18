@@ -1,0 +1,175 @@
+Abinaya
+
+9952095188 | abinaya811994@gmail.com | Chennai, India 600089
+
+OBJECTIVE:
+
+Dedicated to ensuring high-quality software delivery through expertise in testing methodologies
+
+and automated frameworks. Committed to driving continuous improvement for enhanced
+
+product quality and customer satisfaction.
+
+PROFESSIONAL SUMMARY:
+
+Over all 8 years of experience in the IT industry, with expertise in API testing, UI automation,
+
+performance testing, and Agile methodologies. Proficient in tools like POSTMAN, RestAssured,
+
+Playwright, JMeter, and Selenium WebDriver. Skilled in writing test strategies, executing
+
+automated tests, and managing version control using GitHub.
+
+Proficient in API testing using POSTMAN and automated API tests with RestAssured
+
+framework in Java.
+
+Currently engaged in UI and API testing using Playwright, ensuring extensive test
+
+coverage and efficient automation.
+
+Experienced in performance testing using JMeter and PostmanRunner to evaluate API
+
+performance under various loads.
+
+Strong background in Agile methodologies, participating in daily stand-up meetings and
+
+sprint planning sessions to align testing activities.
+
+Skilled in UI automation using WebDriverlO for executing automated tests in JavaScript.
+
+Expertise in various types of API testing including functional, smoke, sanity, regression,
+
+performance, reliability, and security testing.
+
+Hands-on experience with BDD frameworks like Cucumber, integrated with JUnit for
+
+behavior-driven development.
+
+Proficient in creating and executing automated test cases for web applications using
+
+Selenium WebDriver and TestNG.
+
+Managed version control using GitHub, facilitating seamless collaboration and code
+
+management across the team.
+
+Integrated automated tests with CI/CD pipelines using GitHub Action, ensuring timely
+
+execution of test suites.
+
+Utilized testing frameworks such as TestNG, JUnit, Mocha & Chai to execute automation
+
+tasks.
+
+Skilled in writing Test Strategy, Test Plan Preparation, Implementation, Test Case Design,
+
+and Defect Management using JIRA and QASE tool.
+
+Proficient in manual testing techniques and methodologies, with a strong understanding
+
+of the software testing life cycle.
+
+Possess good analytical and communication skills, able to work independently or as part
+
+of a team.
+
+EXPERIENCE:
+
+Senior Quality Assurance Engineer
+
+Full Creative, Chennai
+
+May 2016 - Current
+
+Reviewed software requirements and developed comprehensive test plans, strategies, and
+
+scenarios.
+
+Conducted various types of testing including Smoke, Sanity, Functional, Integration,
+
+Regression, Performance, and User Acceptance Testing.
+
+Utilized POSTMAN tool for functional and performance testing in runner collections.
+
+Performed load testing using JMeter tool.
+
+Participated in sprint planning, backlog management, and facilitated daily stand-up
+
+meetings.
+
+Developed automated scripts for web-based applications using Playwright.
+
+Generated detailed bug reports and worked with developers to resolve issues promptly.
+
+Executed manual tests and produced comprehensive test results.
+
+Monitored application functionality during system upgrades.
+
+Developed new processes for automation of test suites.
+
+Utilized JIRA for defect tracking and documentation.
+
+Analyzed system logs for errors or anomalies.
+
+Assisted in troubleshooting customer problems reported through support tickets.
+
+Collaborated with development teams to ensure product quality throughout the software
+
+lifecycle.
+
+Integrated automated tests with CI/CD pipelines using GitHub Actions.
+
+Provided input on potential risks associated with planned tasks during sprint planning.
+
+Participated in setup, configuration, and maintenance of the test automation framework.
+
+KEY ACHIEVEMENTS:
+
+Automated complex end-to-end test scenarios, reducing manual testing time by 50%.
+
+Enhanced test reporting and logging mechanisms, providing better insights into test
+
+execution and results.
+
+Contributed to the continuous improvement of the test automation framework, resulting
+
+in increased efficiency and maintainability.
+
+SKILLS:
+
+Programming Skills: Java, JavaScript
+
+Automation Tools:
+
+o API Automation: Postman, Rest Assured, Axios
+
+© UI Automation: Selentum WebDriver, WebDriverlO, Playwright
+
+CI/CD: GitHub Actions
+
+Performance Testing: JMeter, PostmanRunner
+
+Project/Test Management Tools: JIRA, Confluence
+
+Defect Tracking: JIRA
+
+Test Case Management: Qase
+
+Agile Methodologies: Scrum
+
+Testing Design Pattern: POM
+
+Unit Test Frameworks: JUnit, TestNG
+
+Version Control: Knowledge in GitHub
+
+Security Tool: Burp suite
+
+EDUCATION:
+
+Bachelor of Technology in Information Technology
+
+Agni College Of Technology, Tharamani, Chennai
+
+Graduation: 2015

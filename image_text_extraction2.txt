@@ -1,0 +1,649 @@
+Resume of Hariharan
+
+Email -— khariiharan@gmail.com; Mobile: +91-9600063087
+
+Qualification: Master of Application (M.C.A)
+
+Hariharan has 15+ years wide range of experience in designing and modeling a variety of applications
+
+Experience
+
+and administration using Oracle Technologies. Current expertise involves database administration,
+
+implementation and migration to Oracle Cloud, OCI, ODA, DBCS, IAAS, PaaS and AWS. Providing 24 x 7
+
+production database support and on-call support for US, UK and Japan clients.
+
+Experience in Exadata administration and Golden Gate implementation on very large scale environment
+
+and mission critical OLTP and OLAP systems for Telecom, insurance and retail industry.
+
+Experience in Oracle Database administration and Cloud Infrastructure administration (19c, 12c, 11g
+
+and 10g), designing, architect, modeling, installation/configuration, migration/upgradation, patching,
+
+backup, recovery, RAC, ASM, RMAN, OEM monitoring, data guard, replication, performance tuning in
+
+windows and Linux based systems for different industries such as Telecommunication, retail, insurance,
+
+building automation, product engineering and automation.
+
+Managerial
+
+Team Manager and Managed production database deliverables, Consulting and
+
+Skills
+
+provided solutions for various database problems for clients
+
+Team management,
+
+Data management,
+
+Capable of driving
+
+implementations,
+
+configurations, support services from offshore or onsite locations.
+
+Customer interaction, requirement gathering, system analysis & feasibility study for
+
+development of the software application including Product development, debugging &
+
+troubleshooting.
+
+Track the projects against the schedules and take corrective actions on any possible
+
+slippages, Involved in various RFI, RFP, RFQ and POC’s response activities
+
+Broad understanding of Oracle Applications architecture and table structure and
+
+expertise in building custom applications or extending seeded Oracle functionalities.
+
+Qualification
+
+L
+
+Master of Computer Application (3 Years)
+
+- Anna university — Chennai — INDIA
+
+L
+
+Bachelor of Science — Computer Technology (3 Years)
+
+- Periyar university — Salem — INDIA
+
+Professional Experience
+
+L
+
+Virtusa Consulting Services Private Limited
+
+APR 2019 - Till date.
+
+MARLABS INNOVATIONS Private Ltd
+
+JAN 2015 — MAR 2019.
+
+WIPRO Technologies
+
+AUG 2014 — OCT 2014.
+
+WIPRO Information Technology Limited
+
+Dec 2008 — JUL 2014.
+
+SunSoft System
+
+AUG 2006 — NOV 2008.
+
+Domain Experience
+
+L
+
+Telecommunication, Retail, Insurance and Product Engineering,
+
+L
+
+Dashboards and Monitoring Application,
+
+a
+
+Supply Chain Management (SCM).
+
+Certification
+
+12c Oracle Certified Professional (OCP),
+
+11g Oracle Certified Professional (OCP),
+
+10g Oracle Certified Professional (OCP).
+
+AWS Certified Solutions Architect — Associate.
+
+Technological Competencies: Oracle Technologies, Exadata, Golden Gate, SQL, PL/SQL, Oracle Cloud
+
+Admin(OCl), ODA, DBCS, IAM, VCN, Peering, Routing, Fast connect, Monitoring of OCI Services, Auto
+
+Scaling, Provision Oracle ATP, ADW, Network Security Groups and Autonomous Data Guard, Load
+
+Balancer setup, Compute, Auto scaling, ZFS, ZDLR, Block Volume, Backup and restore, File and object
+
+Storage, AWS, Redis, Elastic Search, MySQL, Aurora, PostgreSQL, MongoDB and Core Java
+
+Database
+
+Oracle 19c, 12c, 11g, 10g, SQL Server 2008 R2, MySQL, PostgreSQL, MongoDB,
+
+Redis, Elasticsearch, MS Access 2013 and Oracle PL/SQL.
+
+Utilities/Scripting
+
+OEM (13c and 12c), RAC, RMAN, ASM, AWR, ADDM, Log minor, Tkprof,
+
+Explain Plan, PL-SQL, Shell, Batch and Powershell scripting. $3, EC2, DMS, SCT,
+
+ZFS.
+
+Middleware
+
+IBM WebSphere, WebLogic 10.3 and Apache Tomcat.
+
+Project & Design
+
+SQL Developer, SQL * Loader, Red gate, Team Foundation Server, ER win,
+
+Tools
+
+Squirrel, MS Project 2003, Visio 2016, TOAD, PuTTy, Service now, HPSM,
+
+NgAutofix and IBM Remedy.
+
+Reporting Services
+
+Crystal Reports, MS Reporting Services
+
+Project
+
+BT Telecommunication (BT Oracle ASG DBA GS Applications) London, UK
+
+Experience
+
+Role: Database Architect — Technology
+
+End to End migration of databases from DaaS, Non-EC environment to EC and AWS environments,
+
+including production database deliverables, consulting and providing solutions for various
+
+database problems.
+
+Responsible for architecting, designing, implementing and supporting cloud based infrastructure
+
+and its solutions.
+
+Installation, configuration, migration and up gradation of Oracle 19c, 12c, 11g and 10g databases
+
+Experience on migrations of oracle database via transportable tablespace and data pump for on
+
+prim databases.
+
+Experience on migrations of Oracle on prim databases to AWS Aurora PostgreSQL, MongoDB
+
+environments using DMS, $3, EC2 and SCT tools.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Responsible for Database schema optimization and Data modeling.
+
+Customer
+
+interaction,
+
+requirement gathering,
+
+system analysis and feasibility study for
+
+development of the software application including product development, debugging and
+
+troubleshooting. Providing on call support. Help ASG/Dev team to identify poor running SQL and
+
+perform detail analysis to identify root cause. Providing detailed recommendation for production,
+
+development and test databases.
+
+BT Telecommunication (BT Oracle EOSL Program GS — Cloud Migration) London, UK
+
+Role: Database Architect — Technology
+
+End to End migration of databases from DaaS, Non-EC environment to EC and AWS environments,
+
+including production database deliverables, consulting and providing solutions for various
+
+database problems.
+
+Responsible for architecting, designing, implementing and supporting cloud based infrastructure
+
+and its solutions.
+
+Installation, configuration, migration and up gradation of Oracle 19c, 12c, 11g and 10g databases.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Experience on migrations of oracle database via transportable tablespace and data pump for on
+
+prim databases.
+
+Responsible for Database schema optimization and Data modeling.
+
+Customer
+
+interaction,
+
+requirement gathering,
+
+system analysis and feasibility study for
+
+development of the software application including product development, debugging and
+
+troubleshooting.
+
+Experience with AWS Cloud Architecture services including EC2, Data Lakes($3), Data Warehouse
+
+serverless Computing (Lambda, Containers, Glue)
+
+Understanding the latest RDBMS features, open source and new technologies and informing the
+
+application users while migration tasks.
+
+Track the projects against the schedules and take corrective actions on any possible slippages.
+
+Broad understanding of Oracle Applications architecture and table structure and expertise in
+
+building custom applications or extending seeded Oracle functionalities.
+
+BT Telecommunication (BT Javelin GS) London, UK
+
+Role: Database Architect - Technology
+
+Responsible for
+
+architecting,
+
+designing,
+
+implementing and
+
+supporting of cloud based
+
+infrastructure and its solutions.
+
+Installation, configuration and up gradation of Oracle 19c, 12c and 11g databases.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Responsible for Database schema optimization and Data modeling.
+
+Monitoring databases using OEM 13c, which include basic health checks, database growth and Re-
+
+organization of Tablespaces growth of objects etc.,
+
+Monitoring the database for CPU utilization, Blocking Locks and changing priority or killing
+
+unwanted user processes.
+
+Monitoring Exadata components like Storage cells, IB switches, KVM, PDU, and ZFS Storage using
+
+OEM13c and also using ILOM.
+
+Troubleshooting of Performance and Tuning problems in Oracle database using tools like AWR,
+
+ASH, ADDM, SATSPACK, OEM Grid Control and manual scripts.
+
+Golden Gate design, implementation and support for BT Javelin databases.
+
+Configured different levels of replication such as DDL replication, DML replication for table level,
+
+schema level, database level using Golden Gate.
+
+Installation, Configuration, Upgrade, patching of Oracle RDBMS and applications Work on
+
+different versions of Databases with OEM Grid control to maintain the database effectively.
+
+Deploying and supporting minor/major releases.
+
+Migration of Oracle on prim to AWS environment using AWS DMS to EC2 or RDS.
+
+Involved in POC for migration of oracle database to PostgreSQL under the AWS environment. By
+
+using the schema conversion tool, Amazon Aurora PostgreSQL and Amazon RDS.
+
+Proficient of driving implementations, configurations, support services from offshore or onsite
+
+Locations.
+
+Customer
+
+interaction,
+
+requirement gathering,
+
+system analysis and feasibility study for
+
+development of the software application including Product development, debugging and
+
+troubleshooting.
+
+Track the projects against the schedules and take corrective actions on any possible slippages,
+
+Involved in various RFI, RFP, RFQ and POC response activities
+
+Broad understanding of Oracle Applications architecture and table structure and expertise in
+
+building custom applications or extending seeded Oracle functionalities.
+
+Mentoring and coaching junior team members
+
+Conducting training sessions and providing backup support.
+
+Build credibility, establish rapport, and maintain communication with stakeholders at multiple
+
+levels, Lead personnel within a technical team environment.
+
+RISE (Retail Information System) Dallas, US
+
+Role: Technical Lead
+
+Responsible for
+
+architecting,
+
+designing,
+
+implementing and
+
+supporting of cloud based
+
+infrastructure and its solutions.
+
+Monitored the various database activities such as Backup, Error Logs, Space, Object, Performance,
+
+User and Session monitoring to ensure proper Capacity and Availability.
+
+Installation, configuration and up gradation of Oracle 10g and 11g databases.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Configuration of Oracle 10g R2 OEM Grid Control to monitor database
+
+Responsible for Database schema optimization and Data modeling.
+
+Exposure in configuring and maintaining 11gR2 RAC GRID with ASM.
+
+Monitoring database using OEM12c, which include basic health checks, database growth and Re-
+
+organization of Tablespaces growth of objects.
+
+Monitoring the database for CPU utilization, Blocking Locks and changing priority or killing
+
+unwanted user processes.
+
+Troubleshooting of Performance and Tuning problems in Oracle database using tools like AWR,
+
+ASH, ADDM, SATSPACK, OEM Grid Control and manual scripts.
+
+Configured different levels of replication such as DDL replication, DML replication for table level,
+
+schema level, database level using Golden Gate.
+
+Installation, Configuration, Upgrade, patching of Oracle RDBMS and applications Work on
+
+different versions of Databases with OEM Grid control to maintain the database effectively.
+
+Build credibility, establish rapport, and maintain communication with stakeholders at multiple
+
+levels, Lead personnel within a technical team environment.
+
+RSA (Royal Sun Alliance) London, UK
+
+Role: DMA
+
+Responsible for administration and supporting Oracle 11gR2 databases in 24x7 production
+
+support.
+
+Oracle RAC & DataGuard on Linux and Windows Server 2008 - administration.
+
+Installation, configuration and up gradation of Oracle 10g and 11g databases.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Exposure in configuring and maintaining 11gR2 RAC GRID with ASM.
+
+Monitoring database using OEM12c, which include basic health checks, database growth and Re-
+
+organization of Tablespaces growth of objects.
+
+Troubleshoot performance issues for the RAC instances (GC events)
+
+Backup and Recovery issues related (loss of OCR, Voting Disk and Oracle clusterware)
+
+Resolved/Diagnose Node Eviction.
+
+Maintained all existing databases and new installations at current and stable production levels
+
+Monitoring Exadata components like Storage cells, IB switches, KVM, PDU, and ZFS Storage using
+
+OEM12c and also using ILOM.
+
+Build credibility, establish rapport, and maintain communication with stakeholders at multiple
+
+levels, Lead personnel within a technical team environment.
+
+WFMS (Work Flow Management System) an ERP solution for Government of India - IGCAR & MRPU
+
+Role: Sr. DBA
+
+Responsible for administration and supporting Oracle 10g and 11g databases.
+
+Handling incidents on backups, networking and database performance.
+
+Performed Hot and Cold Backups, Logical Backups and User Managed Recoveries and RMAN
+
+recoveries.
+
+Configure LISTENER & TNSNAMES files & Troubleshooting.
+
+Installation, configuration and up gradation of Oracle 10g and 11g databases.
+
+Performance-tuning services for Clients with ADDM, AWR and troubleshooting database using
+
+oracle utilities.
+
+Exposure in configuring and maintaining 11gR2 RAC GRID with ASM.
+
+Developed Productivity and work flow tracking Tool, which interfaces the Dimension Studio Apps
+
+by performing real time integration with existing Oracle ERP System.
+
+Invoice Sync component auto extracts the invoice information from the Oracle ERP and outlook
+
+inbox and link the Invoice details for further processing.
+
+Authoring and Revalidation is inbuilt in the solution for purchase department reconciliation
+
+Dashboard and Report generation on a descriptive and defined scale along with drill down using
+
+BIRT.
+
+Shaping strategy in day-to-day business operations towards Business collaboration platform,
+
+Invoice Tracking system.
+
+Build credibility, establish rapport, and maintain communication with stakeholders at multiple
+
+levels, Lead personnel within a technical team environment.
+
+Established coding guidelines and standards for object oriented and component-based
+
+development with maintainability, reusability, and performance.
+
+Material Management (Parle Products Ltd., Ville Parle - Mumbai)
+
+Role: Lead DBA
+
+Oracle DBs administration - 10g/11g on Windows 2008, RHEL6/7.
+
+OEM Cloud Control 11g and 12c installation, configuration and daily administration.
+
+Oracle DataGuard Switchover & Failover.
+
+Oracle DGMGRL Configuration.
+
+Performed Hot and Cold Backups, Logical Backups and User Managed Recoveries and RMAN
+
+recoveries.
+
+Basic Performance tuning on Oracle 10g and 11g.
+
+Exposure to basic Oracle WebLogic administration.
+
+Electronics Corporation of Tamilnadu Ltd., (ELCOT).
+
+Role: Oracle DBA
+
+Responsible for both manage and support all Production, Development and UAT Instances of
+
+Oracle 10g/11g.
+
+Created and Maintained Users and Roles with Appropriate Privileges and Profiles.
+
+Monitoring database activities for specific client performance issues.
+
+implanting of Complex RMAN policies & Backup/Recovery Strategy for critical databases.
+
+implanting of automatic process to clone databases in all modes and with all configurations
+
+Recover in Live of critical scenarios of databases and more Re-organizing the tables and schema
+
+level refresh based on customer request.
+
+Configure and manage RMAN backup and recovery.
+
+Handling incidents on backups, networking and database performance.
+
+Interact with application development teams for technical support, configuration monitoring,
+
+performance testing.
+
+Involved in developing the PL/SQL codes to interact with oracle Database.
+
+Involved in Installing, configure and manage Oracle Enterprise Manager(OEM), Performance
+
+tuning and proactive database tasks with On-call support.
+
+Integrated Office Automation System (IOAS), an ERP solution for Government of India — NIOT,
+
+INCOIS
+
+Role: Oracle DBA
+
+Oracle DBs administration - 10g/11g.
+
+Oracle RAC & DataGuard on OEL Linux OS - administration.
+
+Unix/Linux OS on x86 - administration.
+
+Handling incidents on backups, networking and database performance.
+
+Performed Hot and Cold Backups, Logical Backups and User Managed Recoveries and RMAN
+
+recoveries.
+
+Installation, configuration and up gradation of Oracle 10g databases.
+
+Developed Productivity and work flow tracking Tool, which interfaces the Dimension Studio Apps
+
+by performing real time integration with existing Oracle ERP System.
+
+Invoice Sync component auto extracts the invoice information from the Oracle ERP and outlook
+
+inbox and link the Invoice details for further processing.
+
+Dashboard and Report generation on a descriptive and defined scale along with drill down using
+
+BIRT.
+
+Order Management System(OMS)
+
+Role: Engineer
+
+Installation of Oracle 10g databases.
+
+Maintenance of oracle 10g database on Windows & Linux environment.
+
+Importing of database from older oracle version to newer version.
+
+Worked on resolving real time problems being faced by client to resolve inaccuracy in goods
+
+received, put-away errors, inaccurate cycle count, work-in-process inventory errors and order
+
+processing errors by providing real time visibility thereby reducing the operational inefficiencies.
+
+Eliminate supply chain glitches by enabling cross-functional collaboration between various
+
+distribution processes like receiving, put-away, cycle count, assembly/kitting and shipping.
+
+Provided the ability to accurately control the work-in-progress inventory and production
+
+performance in real time based on demand and shipment forecasts.
+
+Developed dashboards and reporting portals to provide real-time business intelligence across all
+
+processes
+
+Colloquy, US
+
+Role: Software Engineer
+
+Monitoring database, which include basic health checks, database growth and Re-organization of
+
+Tablespaces growth of objects.
+
+Monitoring the database for CPU utilization, Blocking Locks and changing priority or killing
+
+unwanted user processes.
+
+Oracle Database Administration support, including install Oracle software, patches and upgrades.
+
+Manage and monitor Tablespaces and Tablespace quotas.
+
+Configure and manage RMAN backup and recovery
+
+Interacted with the client and provided On-call support.
+
+Trainings Attended
+
+11g Oracle Exadata Database Machine Administration Workshop from Oracle University,
+
+Oracle Cloud integration (OCI) from Oracle University.
+
+Oracle Database 11g RAC Administration from Oracle University.
+
+Oracle Database 12c New Features and Exadata.
+
+@Bangalore
+
+Alternate email
+
+ID: khariiharan@yahoo.com

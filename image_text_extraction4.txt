@@ -1,0 +1,503 @@
+AS
+
+D4’
+
+DIGITAL TOGETHER
+
+Dayanithi S
+
+Objective:
+
+Aspire for a suitable position that places me in a challenging position within a fast-Paced and
+
+learning environment for developing my technical and interpersonal skills.
+
+Tech Stack:
+
+v
+
+Total 11 years of experience in software testing (Functional/Automation) with good
+
+knowledge in SDLC/STLC lifecycle.
+
+Web UI Automation - Selenium-Java, TestNG, maven, Log4j2, Extent Reporting, BDD
+
+Cucumber, GIT.
+
+Appium Mobile App Automation- Appium-Java, TestNG, Azure Repo Git, Log4j2,
+
+Extent Reporting, Android Studio , Appium Studio , Real Device, UJAutomatorz.
+
+API Service Automation - REST Assured Java, TestNG, Extent Reporting, Log4j, GIT.
+
+Continuous Integration Devops - Microsoft Azure Repo GIT, Azure Pipelines, Jenkins,
+
+Saucelabs, Jira.
+
+Have a good functional knowledge in Ecommerce, US Healthcare product, Trading &
+
+Securities application, and telecom interface.
+
+Professional Summary:
+
+I have a Master's Degree in Computer Applications (MCA) and have been working in IT
+
+for around 11 years. My expertise lies in Software Quality Assurance as a Test Automation
+
+Team Lead. I'm skilled in automating tests for different types of applications like websites,
+
+mobile apps, APIs, Windows programs, and Mainframe applications.
+
+Extensive familiarity with Software Development Life Cycle (SDLC) methodologies such
+
+as Waterfall, Agile/Scrum, and Kanban within the Quality Assurance team.
+
+Comprehensive Knowledge of the complete Software Testing Life Cycle (STLC),
+
+encompassing Test Planning, Test Design, Test Development, Execution, Maintenance,
+
+and Support.
+
+Well versed in Banking, Securities, Healthcare and E -commerce Domain.
+
+Proficient in creating Appium Mobile automation test scripts in Java for Android & iOS,
+
+covering Native, Hybrid, and Web Apps.
+
+Skilled in writing Selenium WebDriver automation test scripts in Java for Web UI testing.
+
+Extensive experience in automating API Service Testing using REST Assured & JAVA
+
+Apache HTTP Client.
+
+Adept at developing Regression automation suites from scratch using the TestNG
+
+automation framework for Mobile Apps, Web-based applications, DB, and API
+
+applications.
+
+Substantial experience in implementing DevOps for Test Automation using Azure
+
+DevOps, Amazon AWS, and Jenkins.
+
+Competent in managing repositories such as GIT, Azure Repo, SVN, and creating/running
+
+Pipelines in Azure & Jenkins.
+
+D4’
+
+DIGITAL TOGETHER
+
+Proficient in Cloud Testing execution using SauceLabs on Android emulators, iOS
+
+Simulators, and Real devices.
+
+Skilled in Parallel testing and cross-browser testing on Chrome, Firefox, Edge, IE, and
+
+Safari.
+
+Expertise in writing element locator strategy using relative XPath and CSS selectors for
+
+web apps.
+
+Proficient in developing Page classes using Page Factory in the Page Object Model (POM)
+
+design pattern.
+
+Strong experience in Test plan, Test design, and Defect Management based on high-level
+
+technical requirements using Azure Test Plan, Confluence, JIRA, and HP ALM/HP
+
+Quality Center.
+
+Expertise in all levels of Testing methods such as Black Box, Positive /Negative testing,
+
+Smoke Testing, Sanity Testing, Functional Testing, and Regression Testing.
+
+Cypress automatically waits for DOM elements to become available and actions to complete,
+
+eliminating the need for explicit waits or timeouts in test scripts.
+
+Cypress provides real time feedback as tests run, allowing tester to see application changes
+
+and debug issues instantly without reloading the page.
+
+Cypress comes with built -in assertion powered by chai,making it easy to write expressive
+
+and readable test assertions directly in test scripts.
+
+Professional Experience:
+
+21- Apr - 19 to Till Date: Test Automation Team Lead -Benefithub, Chennai
+
+Project Description:
+
+Benefit Hub is the global market leader in delivering the kinds of everyday discounts
+
+and benefits that employees really want. And because we’ve been doing this for over
+
+two decades - for many of the world’s largest and most demanding companies it’s
+
+something we’re pretty good at.
+
+Role: Test Automation Team Lead
+
+Responsibilities:
+
+v
+
+Engaged in Requirements Gathering, collaborating with customers to comprehend project
+
+requirements, work requests, and analysis through knowledge-sharing sessions.
+
+Operated in a dynamic Kanban environment, actively participating in meetings.
+
+Utilized JIRA to ensure daily tasks were aligned with the appropriate user stories.
+
+Generated automation test scripts using the Appium TestNG automation framework for
+
+both Android and iOS.
+
+Contributed to the development of new regression scripts and maintained existing ones.
+
+Executed Cloud Test scenarios on SauceLabs.
+
+Mapped test cases to requirements in Jira and executed them in the Test Environment.
+
+Implemented Extent Reports for reporting, bug tracking, and report generation.
+
+Utilized GIT for version control.
+
+Implemented the CI/CD concept using MS Azure.
+
+Analyzed daily automation runs and prepared documents for automation test results and
+
+project backups.
+
+Provided daily status reports on design and execution, including issues and escalations.
+
+Conducted Negative testing, Integration testing, Smoke testing, and Regression testing on
+
+D4’
+
+DIGITAL TOGETHER
+
+UI applications.
+
+03- Apr - 17 to Mar 2019: Associate - Athena Health India Tech Pvt Ltd, Chennai
+
+Project Description:
+
+AthenaNet is a Cloud based EHR which includes various features like managing the
+
+patient’s data and their results and providing Meaning Use measure to the government.
+
+Athena Collector improves the medical billing process and keeps claims error free. It
+
+also supports patient registration, adding Insurance details, appointment workflow.
+
+Role: Test Engineer
+
+Responsibilities:
+
+v
+
+Working for Patient Safety Testing team which includes Analyzing & finding issues in
+
+EHR system called AthenaNet
+
+v
+
+Specialist in Ambulatory Clinicals, Hospital Clinicals workflows and in departments such
+
+as Emergency, Surgery and Behavioral Health etc.
+
+Preparing test data for EPCS, Allergy, Diagnosis, Drug Interactions warning testing using
+
+the defined ICD10 codes.
+
+Worked in creating Test Suites for Interaction warnings, Med reconciliation and Chart
+
+testing in Hospital and Ambulatory Clinicals.
+
+Good knowledge in EDI is known as EDI 837 and EDI 835.
+
+Design, configure, and implement EDI solutions for healthcare claims (837) and remittance
+
+advice (835) transactions, ensuring compliance with HIPAA regulations and industry
+
+standards.
+
+Conduct testing, validation, and troubleshooting of EDI transactions to identify and
+
+resolve issues related to data quality, format compliance, and transmission errors.
+
+Collaborate with internal stakeholders, external partners, and EDI service providers to
+
+establish and maintain effective communication channels and data connections.
+
+Review and interpret EOB documents in EDI to verify the accuracy of claims payments,
+
+adjudication decisions, and member financial responsibility.
+
+Review and interpret health insurance plans, benefit documents, and contractual
+
+agreements to understand cost-sharing arrangements, including copayments, deductibles,
+
+coinsurance, and out-of-pocket limits.
+
+Review and analyze healthcare claims for accuracy, completeness, and compliance with
+
+contractual terms, medical policies, and billing guidelines
+
+Adjudicate claims according to established procedures, fee schedules, reimbursement
+
+methodologies, and regulatory requirements, ensuring consistency and fairness in claim
+
+decisions.
+
+Identify and investigate claims discrepancies, coding errors, and billing irregularities,
+
+collaborating with providers, members, and payers to resolve issues and prevent future
+
+payment disputes.
+
+Worked in Scrum Planning, Biweekly support activities and new functionalities
+
+exploratory testing.
+
+Proactively found issues and reported the same in Salesforce and JIRA
+
+Review of test scenarios and Publish Weekly Status Reports to appropriate stakeholders -
+
+D4’
+
+DIGITAL TOGETHER
+
+Product owners, Scrum Masters and Developers
+
+Pre-and Post-production smoke testing on functional, compatibility and user interface
+
+testing on Patient Encounters, Chart/Provider Group, Order group etc.
+
+Strong Experience in Automating Web Application Testing using Selenium WebDriver
+
+with TestNG framework.
+
+Strong Experience in Java Selenium WebDriver and TestNG.
+
+Well versed with Handling Elements in Selenium WebDriver.
+
+Writing Test cases using Element locators, WebDriver methods, Java programming
+
+features and TestNG Annotations.
+
+Experience in Data driven Testing, Parallel Test execution using Selenium WebDriver,
+
+TestNG and selenium Grid.
+
+Expertise in implementation of Automation framework using Selenium.
+
+Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect
+
+Reports and Test Summary Report
+
+Proficient in creating queries to verify dimensional and fact tables
+
+Having strong domain skill in EHR Workflows, HIPAA regulations and Revenue Cycle
+
+management of Collector workflow.
+
+Experience building and maintaining Regression test suite in Selenium WebDriver
+
+Hands-on Experience on TestNG, Frameworks, Maven Jenkins.
+
+Good understanding and hands-on in Continuous Integration and Continuous
+
+Deployment using Jenkins.
+
+Well versed in Cucumber BDD framework...
+
+Well versed in Page Object Model with page factory in Selenium Webdriver.
+
+Software Skills:
+
+Test Management tool : JIRA 7.3.8 / Salesforce
+
+Database
+
+Oracle 12c
+
+Operating System
+
+Windows
+
+Automation Tool
+
+Selenium
+
+09- Nov - 10 to 23- Mar - 17: Project Engineer - Wipro Technologies, Chennai
+
+Project - III
+
+: State Street
+
+Designation
+
+: Test Engineer - Manual / Automation
+
+Location
+
+: Chennai, India
+
+v
+
+Having 2+ years of professional IT experience with extensive knowledge and skill in
+
+Testing of Trading Application, Active Investor- Customer Interface
+
+v
+
+Proficient in writing Test Cases, Test Scenarios and Test Summary Reports for Prepared
+
+and ran Sql queries to verify Dimensional and Fact tables.
+
+Strong Knowledge in Software Development Life Cycle (SDLC), having thorough
+
+understanding of various phases like Requirements, Analysis/Design, Development and
+
+Testing.
+
+D4’
+
+DIGITAL TOGETHER
+
+Review /Analyze business requirements for the enhancements suggested by product
+
+group and Business Analysts.
+
+Defect analyzing and reporting in HP ALM.
+
+Identify and prepare regression test suites for automation/script developing and to
+
+maintain periodically with every iteration in Quality Center.
+
+Work experience in agile software development life cycle for over 2 years.
+
+v
+
+Experience in preparing Test cases, developing and maintaining test scripts,
+
+analyzing defects, interacting with team members towards achieving expected quality.
+
+v
+
+Work experience in QA.
+
+Software Skills:
+
+Test Management tool : HP ALM 12.21
+
+DB Tools
+
+Oracle Sql Developer 4.0.1
+
+Database
+
+Oracle 11g
+
+Operating System
+
+Windows
+
+Automation Tool
+
+UFT 12.50
+
+Project - II
+
+: Level 3 - Telecom Unity Application, Migrated user interface
+
+Designation
+
+: Project Engineer
+
+Location
+
+: Chennai, India
+
+Tenure
+
+Summary:
+
+v
+
+Review/Analysis of Existing Network inventory information by comparing the Legacy
+
+systems and Field audited information.
+
+v
+
+Construct & Building the network element in tool TNE & GRANITE which are failed
+
+during the migration process.
+
+Cleansing the existing Network Inventory information based on the source and Field
+
+audited information.
+
+Responsible for adding, disconnecting and modifying Paths in Telcordia Granite based on
+
+the information from Legacy systems.
+
+Responsible for fallout reporting and follow up with onsite Agents.
+
+Responsible for Project reporting such as Dashboard, Weekly Reviews
+
+Responsible for Quantitative & Qualitative Service delivery.
+
+Non-IT Experience:
+
+Worked as an administrator in Candor Bio Tech Ltd for 6months during the period 2009
+
+Aug to 2010Feb.
+
+v
+
+Worked ina software PHARMA.
+
+v
+
+Responsible for adding, disconnecting and modifying data in Pharma based on the
+
+information from Legacy systems.
+
+v
+
+Responsible for maintaining databases and taking a backup of data.
+
+Academic Qualification:
+
+Master of Computer Application (MCA) with 70% from University of Madras, Chennai.
+
+Personal Information
+
+Date of Birth
+
+07-Jan-1989
+
+D4’
+
+DIGITAL TOGETHER
+
+Languages Known
+
+Tamil, English
+
+Indian
+
+Nationality
+
+Marital Status
+
+Single

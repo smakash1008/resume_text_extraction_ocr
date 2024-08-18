@@ -1,0 +1,479 @@
+rahman.opensourcedb@gmail.com
+
+Mohammad A Rahman
+
++91-8861349278
+
+Oracle Database Architect, Exadata DB, Golden Gate Specialist,
+
+PostgreSQL DBA, Cloud Solution Architect
+
+SUMMARY
+
+lam an IT professional with 16 years of total experience, including 11 years as a database administrator, architect, database replication specialist,
+
+and migration expert. | have extensive expertise across various domains such as healthcare, manufacturing; finance, telecom, and retail, and
+
+working in culturally diverse environments at multinational companies. My projects span technologies such as Oracle Database, PostgreSQL,
+
+Oracle Golden Gate, and AWS/OCI Cloud services. | utilize a range of tools for monitoring and performance tuning, including OEM, Oracle
+
+Veridata, PGAdmin, Datadog, PG extensions, and Cloud EC2, RDS, storage, networking include Route 53 or other services
+
+AREAS OF EXPERTISE
+
+>
+
+Oracle Database configuration, up-gradation, Migration, and performance tuning, includes multitenant, RAC database.
+
+>
+
+Provide high available from SOPF include disk level to instance level or service, and minimize |O wait.
+
+>
+
+Oracle Golden Gate replication include active-active, Data guard include FSFO, and also engage in migration.
+
+Databases migrate from on-premises to OCI, AWS EC2 or RDS services and experiencing GCP Cloud services.
+
+RMAN backup recoveries to keep upgrade script handle to all kind of database outage.
+
+OEM target discovers, promotion, monitoring with AWR report analysis and online patching
+
+PostgresSQL Database administrates backup recovery logical/ PITR, tuning, optimization, audit recommendation, and fix bug.
+
+igrate on premise Oracle Database 11g to AWS RDS Aurora PostgreSQL, by initial load with cloud replication services.
+
+System administration and performance skills for Linux operative system includes Shell and Python scripting.
+
+TECHNOLOGIES
+
+Oracle Database 10g/11g/12/19c, multitenant database on RAC/ non-RAC or super cluster environment.
+
+Database replication technologies like Oracle Data guard, Golden Gate, Veridata, and Backup recovery.
+
+PostgreSQL Database technologies like Aurora, HA — Replication, Failover, Load Balancing and connection pooling.
+
+Cloud infra EC2, RDS, RDSADMIN, bucket, network, route table, Route 53, Cloud Front, Global accelerator, costing, and other services.
+
+SQL Developer, Toad, OEM 13c, DATADOG, JIRA Dashboard, and Remedy ticketing tools.
+
+UNIX (AIX, HP-UX, Solaris), Linux (Red Hat) platform, and language SQL, PLSQL, Shell and Python
+
+Education and Certification
+
+%
+
+Master in Computer Application (MCA)
+
+%
+
+AWS Certified Solutions Architect Associate (SAA-CO3)
+
+%
+
+Oracle Database Administrator Certified Professional (OCP)
+
+%
+
+Oracle Database Administrator Certified Associate (OCA)
+
+%
+
+Oracle Database Certified SQL Expert
+
+Work Experience
+
+Working as a Database Architect with Virtusa Private Limited
+
+ov 2020 to Present
+
+Worked as a Database Architect with Collabera Technologies Private Limited
+
+Oct 2019 to July 2020
+
+Worked as a Senior Database Administrator with NTTDATA
+
+AUG -19 to SEPT 2019
+
+Worked as a Senior Database Administrator with IBM India PVT Ltd
+
+April 2017 to JAN 2019
+
+Worked as Oracle Application DBA with Primus Global Solution Ltd
+
+AR 2015 to MAR 2017
+
+Worked as a Consultant with Apps Associates
+
+Jun 2014 to Aug2014
+
+Worked as an Oracle Golden Gate DBA with Envision Enterprise Solution
+
+Oct2012 to Jan2014.
+
+Worked as an Oracle Database Administrator with Introlligent Solutions PVT Ltd
+
+ay 2011 to Aug 2012
+
+Worked as a Healthcare Business Analyst with IBM Daksh Pvt. Ltd.
+
+Jan 2008 to June 2010
+
+Worked as a Medical Analyst with Globerian India Pvt. Ltd
+
+May 2006 to May 2007
+
+Worked as a MIS executive with Matrix Processing House
+
+Jun 2005 to May 2006
+
+WORK EXPERIENCE and PROJECT COMPLETION
+
+British Telecom — Cloud Migration and DB Replication ( Nov 2020 — Present
+
+Role
+
+Database Architect
+
+Technology
+
+Oracle 11g, and Multitenant 12/19c, OEM, Golden Gate, PostgresSOL and AWS/GCP Cloud infra
+
+Description
+
+Development & Migration databases to Cloud Environments
+
+Responsibilities
+
+Complete SDLC for database up gradation and migration to 19¢ OEL 8 server along with
+
+maintenance procedures, documentation and ensure standards definition, security, and integrity.
+
+Configure and Oracle Data guard to switchover on new machine, Configure Golden gate for
+
+minimal migration downtime and replace standby server. Migrate on-premises databases to AWS
+
+EC2 customise machine or RDS database. Migrate AWS Oracle RDS database to open-source
+
+PostgresSOL database.DBA support and CR/SR request to apply require change to enhance
+
+performance. Planning for Production Storage and Capacity Management include Backup and
+
+Recovery including Pg_dump, pg_dumpall, setting up WAL archiving, Point in time recovery,
+
+including HA/DR Setup including logical, physical standby
+
+INTUIT — Cloud Migration- Finance — Oct 2019 to Jul 2020
+
+Role
+
+Database Architect
+
+Technology
+
+Oracle Database 10/119, 12/19¢, OEM, Golden Gate, PostgreSOL Database, Cassandra NoSOL
+
+Database, Amazon Redshift database, AWS Cloud services, Storage, EC2, RDS, network Route 53
+
+Cloud Front, Global accelerator and other services.
+
+Description
+
+Development & Migration databases to AWS Cloud Environment
+
+Responsibilities
+
+Lead support role for BMR migration and coordinate multiple scrum teams. Install/configure, up-
+
+gradation, migration to 19¢ DB on two nodes cluster Linux machine and Golden Gate replication
+
+along with configure Oracle Veridata jobs for handle data sync issue and validation report Build
+
+active standby database upgrade version 19¢ on AWS Cloud EC2.AWS services to apps traffic
+
+control, Improve application scalability, high transfer speed with low latency or optimization.
+
+Creation, managing and migrating PostgreSQL schema, tables, tablespaces and users, roles and
+
+group include Planning for Production Storage and Capacity Management.
+
+NTTDATA — Cloud Migration — Healthcare —- AUG 2019 — SEPT 2019
+
+Role
+
+Senior Database Administrator
+
+Technology
+
+Oracle 10/11g, 18¢ automated DB, RMAN, DATAPUMP and Oracle Cloud Infra(OCl)
+
+Description
+
+Migrate DB from on-premises to Oracle Cloud infrastructure
+
+Responsibilities
+
+Configured virtual machine on OCl and install, configured 11g database. RMAN backup script to run
+
+10g DB and copy backup files to Storage Object .And build 11g database with backup & restoration
+
+on OCI platform. Lift & Shift assignment to schedule DATAPUM and Incremental backup scripts to
+
+schedule to take Backup & restore 18¢c DB. Support end to end migration SDLC and keep
+
+application process up and running with minimal downtime to complete migration before SLA.
+
+Shop Direct Group-IBM Cloud
+
+igration Retail -— APRIL2017 to JAN 2019
+
+Role
+
+Senior Database Administrator
+
+Technology
+
+Oracle 10/11g, 12¢, SOL Server Database, Golden Gate, Veri-data, Linux, AWS Cloud Infra, JIRA
+
+Description
+
+Migrate application databases and provide POC for data lacking issues.
+
+Responsibilities
+
+Perform standard maintenance, administrative, PT statistics, and recommend corrective actions
+
+include backup recovery, up-gradation, migrate on-premise database to AWS EC2 servers as well
+
+RDS instances, and Golden Gate installation, configuration, tuning replication process. RAC
+
+databases support and validate cluster sync issue and OCR backup recovery. RMAN scripts and
+
+implementation Lo/La/Archive backup according to SLA. Backup to Cloud storage and refresh
+
+require database on EC2 machine. Onsite client location to bring all data ingestion tasks request
+
+on JIRA application and improved dashboard tagging for workflow transparency
+
+| Wipro Technology — Baxter — Healthcare - NOV2016 to MAR2017
+
+Senior Database Administrator
+
+| Role
+
+| Technology
+
+Oracle DB12¢ EM 13¢ Cloud Control on Exa-Data X4-2 machine
+
+Description
+
+Migrate Database to Cloud Control and Exadata admin
+
+Responsibilities
+
+OEM cloud control, target promotion, migration, maintenance and support. Support to cell
+
+server issue and patching all component of ExaData machine. Patch OFSDP which include Infini-
+
+Band switch, compute node, cell servers. Exadata Cell administration, database manages with
+
+cloud control (EM).
+
+IBM—AT & T- Telecom — MAR 2015 to OCT 2016
+
+Role
+
+Oracle Apps DBA
+
+| Technology
+
+Oracle DB 10/11gG/12c, RAC, Golden Gate,
+
+ongoDB, SOL Server and Micro-Service
+
+Description
+
+igrate DBs to Oracle new version machine and Goldengate configuration
+
+Responsibilities
+
+igrate DB from window & Linux platform to standard Linux Cloud environment. Mapping data
+
+ransformation in Oracle Benchmark tool application specifications. Migrate SOL server to
+
+Oracle database using Oracle benchmark tool.
+
+igrate the Oracle old version of DB to Oracle
+
+12c database on 8-RAC nodes. Goldengate setup end to end for migration and configure for
+
+ecovery filter data. Goldengate configured for unidirectional and bidirectional replication and
+
+everse replication to old server for monitoring or rollback or others application testing.
+
+DB performance tuning, repair dead locks, and others user management roles.
+
+Documentation for business transformation.
+
+| Magma Fincorp —Finance- SEPT 2014 to FEB 2015
+
+| Role
+
+Consultant
+
+| Technology
+
+Oracle 11g DB, RAC, X2-X4 Exadata with HP-Linux (2 nodes) and Golden Gate
+
+Description
+
+Migrate databases from non-RAC environments to Exadata 2-node RAC platform.
+
+Responsibilities
+
+POC and documentation for migration plan with zero downtime.
+
+Cross platform Database migration by using Golden Gate.
+
+Initial load to Goldengate with minimum downtime with high available for apps.
+
+| Apps Associate — IKEA —JAN 2014 to AUG 2014
+
+| Role
+
+Consultant
+
+Technology
+
+Oracle 10/119, Golden Gate, Veridata, E-Business Suite 12.1, SOA 11g, and Fusion Applications
+
+Description
+
+Database replication and integration
+
+Responsibilities
+
+Configure Oracle Golden Gate on heterogeneous environment for DML replication.
+
+Implemented Oracle Golden Gate Veri-data for heterogeneous environment.
+
+Involved in all database support, maintenance and documentation.
+
+| Walgreens —ETL & Data movement- OCT 2012 to JAN 2014
+
+Oracle Golden Gate DBA
+
+| Role
+
+Oracle 10/119, Golden Gate, JMS Queues, Flat Files integration, RAC 2-nodes, and NAS share
+
+| Technology
+
+storage.
+
+Description
+
+Database replication and integration
+
+Responsibilities
+
+Golden Gate technical support for numbers of applications. Supporting replication for both DDL
+
+and DML operation. Implemented extract, filter and pump process for customized projects.
+
+Implemented data integration for Real-time Data Warehousing. Implemented initial data load to
+
+real time data integration. Configure the extract, pump, replicate and flat file writer process
+
+GG setup for ad-hoc request for restores recovery the data. Participate in CAB meetings and
+
+support decisions on represented change request. Handle all priorities tickets includes incident
+
+and change management. Documenting event logs, daily diary, handbook mapping excel sheet
+
+| Apple Inc. — Manufacture Quality Management (MQM)-MAY 2011 to AUG 2012
+
+Oracle DBA
+
+| Role
+
+Oracle 10/119, Grid, Golden Gate, Linux and Sun Solaris Exadata V2 / X2 (RAC 8-nodes), Toad,
+
+| Technology
+
+SOL Developer,
+
+Oracle Database Administrator
+
+Description
+
+Responsibilities
+
+Responsible for 24X7 support of production databases. Monitor database health check-up
+
+includes availability and connectivity with timely production issue remediation. Tune the
+
+databases performance, availability, growth report, event notifications, Applications statistics,
+
+Database statistics, OS statistics, define rules as per policy of each individual site, scheduling jobs
+
+anaging database security and creating and assigning appropriate roles and privileges.
+
+mplemented table partitioning to improve performance and data management. Analyse tables
+
+on regular basis for Oracle optimizer, performed tuning and use explain plan, hint, indexing, and
+
+oad balancing. Schedule the monitoring scripts for automation health check-up. Migrate
+
+databases to EXADATA Machines and manage DB on full RAC Exadata machine. Configured
+
+physical standby database during migration by using RMAN and backup. Using roll forward
+
+strategy on standby database sync issue when log corruption or other issues. Performed
+
+switchover when primary/secondary machine unstable. Configuration and scheduling logical,
+
+RMAN archive/fincremental/full backups. Patch family— one off CPU, interim and BP12 patch.
+
+Toad/SOL developer tool for procedure compilation, generate scripts and application connection
+
+string test from client side. Using ASMCMD utility- dropping disk group, drop disk, add disk.
+
+Administrate ASM file access ontrol/directories/disk group templates/ASM performance. Golden
+
+gate troubleshooting and tuning included monitor ggserr.log, review check point details,
+
+evaluate process report; identifying bottlenecks such as lag, network issue, NFS access issue and
+
+tuning extraction, replication for optimal performance. Golden gate 11g troubleshooting and
+
+tuning included monitor ggserr.log, review check point details, evaluate process report,
+
+identifying bottlenecks such as lag, network issue, NFS access issue and tuning extraction,
+
+replication for optimal performance and resolving slow extraction, extract abends issues.
+
+| UHG — Healthcare Medical Insurance— Jan 2008 to Jun 2010
+
+| Role
+
+ealthcare Business Analyst
+
+| Technology
+
+Oracle E-Business Application
+
+Description
+
+ealth Care Medical coding and billing
+
+Responsibilities
+
+Proficiency with medical billing software and electronic health records (EHR).
+
+Focus on healthcare processes include emphasizes analyzing medical data, involving coding,
+
+Effective communication with patients, providers, and insurance agents.
+
+Familiarity with medical terminology related to diseases, treatments, anatomy, and physiology.

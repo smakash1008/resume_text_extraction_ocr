@@ -1,0 +1,231 @@
+~]
+
+priyananthni@gmail.com
+
+Nanthni Priya R
+
++91 9486934678
+
+@
+
+https:/www.linkedin.com/
+
+Sr. Quality Assurance Engineer
+
+n/nanthni-priya-6588b3105
+
+Highly motivated versatile Automation Tester with 6 years of experience. Demonstrated work ethics and a
+
+solutions-oriented focus in demanding fast-paced environments, with solid understanding of STLC
+
+process. Trusted leader in collaborative initiatives that gives positive impact to the project.
+
+Professional Summary
+
+@
+
+Strong in Functional, Regression, API and Automation testing
+
+Good experience on web and mobile testing
+
+Proficient in Test automation, Selenium WebDriver, Java, OOP’s, Tosca, Appium, POM, TestNG,
+
+Maven, Log4j, Extent Report, and Hybrid Frameworks for efficient test automation
+
+Good Knowledge in Agile Methodology - Scrum & Kanban
+
+Well acquainted with all phases of SDLC and STLC
+
+Experience in CI/CD configurations for the test automation using Jenkins
+
+Expertise in Understanding and Analyzing Test Requirements, Planning, Design, Execution, Test
+
+script creation and Bug life cycle
+
+Strong analytical aptitude, highly motivated to swiftly acquire new abilities, proficient
+
+communication, and interpersonal capabilities
+
+Good learner ability to meet tight deadlines and work under pressure and be productive with new
+
+,
+
+technologies
+
+Skills
+
+e Programming Language
+
+Java, JavaScript
+
+e
+
+Automation Tool
+
+Tosca, Selenium Web Driver, Appium
+
+e
+
+Framework
+
+POM, Hybrid - TestNG & Maven
+
+e
+
+Version Control Tool
+
+GIT
+
+e
+
+CI/CD
+
+Jenkins
+
+Build Management Tools
+
+Maven
+
+IDE
+
+IntelliJ
+
+Test Management Tools
+
+HP-ALM, Jira, TestRail
+
+Clear Quest, HP-ALM, Jira
+
+Bug Reporting Tools
+
+Mobile Testing Tools
+
+Perfecto, Browser Stack
+
+Test Methodologies
+
+Agile, Waterfall
+
+Database
+
+Oracle SQL
+
+API Testing
+
+Proxyman
+
+OS Platform
+
+Mac, Windows, Linux
+
+Push Notifications
+
+Clevertap, Klaviyo
+
+Event Tracking
+
+Google Analytics, Firebase
+
+Education
+
+Bannari Amman Institute of Technology
+
+2013 - 2017
+
+¢ Bachelor of Engineering - Electronics & Communication Engineering
+
+© CGPA: 7.35
+
+Experience
+
+Plobal Apps |
+
+Quality Assurance Engineer II
+
+Oct 2022 - Apr 2024
+
+Responsible for the analysis, planning, documentation, and reporting of management information
+
+Involved in Functional, Regression, Ad-hoc, Smoke-Sanity & Automation testing for Mobile
+
+Applications
+
+Conducted stand up calls and managed the QA team effectively
+
+Planned & strategized test schedules in accordance with project scope and delivery deadlines
+
+Worked closely with business owners throughout the development and testing lifecycle, including
+
+the requirements gathering and design
+
+Involved in API testing with Proxyman
+
+Developed and executed Automation Scripts using Selenium WebDriver and TestNG
+
+Handled 3 parallel releases and managed stakeholder communication, flagged blockers and
+
+updated the leadership about the progress and got recognized for the same
+
+STG InfoTech | Test Engineer
+
+Oct 2021 - May 2022
+
+Played a key role as an offshore coordinator for the QA team
+
+Involved in Functional, Regression, Sanity & Automation testing
+
+Experience with hardware and software testing
+
+Tested FordPass mobile application and backtracked the process in Charles
+
+Hosted backlog grooming and sprint planning agile ceremonies
+
+Conducted training session on TestRail
+
+Developed and executed new standard operating procedures to maintain accurate KPI
+
+expectations and streamline processes
+
+Created bug report to analyze RCA
+
+Recognized for exceptional customer service skills and problem-solving ability
+
+Tech Mahindra | Software Engineer
+
+Apr 2018 - Oct 2021
+
+Devising all the artifacts of testing such as preparing Test Scenario and Test Cases, Test Execution,
+
+Defect Reports and Test Summary Report
+
+Exposure in waterfall and agile methodologies
+
+Performed Sanity, Functional , Regression testing on web application
+
+Checked the data flow through front end and back end and used SQL queries to extract data from
+
+database
+
+Involved in Sanity Testing to check the applications at high level to identify and report any critical
+
+issue
+
+Good Leadership skills to guide the team in order to complete the project before the deadline
+
+Subject Matter Expert(SME) for couple of client desktop applications in the Project
+
+Created various project specific valuable assets such as KT documents & Test Plan
+
+Involved in Production Validation Testing and coordinated from offshore
+
+Awards
+
+@
+
+Client Appreciation Awards — “Best Performer” (twice) - Tech Mahindra
+
+Best Team Award - Agile - Tech Mahindra
+
+Organization Appreciation Awards — “Pat on Back” & “Bravo” - Tech Mahindra
+
+Most Valuable Person (MVP) Award - Plobal Apps

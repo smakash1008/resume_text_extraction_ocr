@@ -1,0 +1,335 @@
+ANIRUDHA PADHY
+
+aca
+
+padhyanirudha@yahoo.in
+
+CLOUD DATABASE CONSULTANT
+
+O +91-8123950380
+
+paid Oracle Autonomous Database Speciali
+
+>
+
+Certified in 2023
+
+DBA professional; Targeting assignments in Oracle Database
+
+Administration/Maintenance with an organization of repute
+
+Oracle Golden Gate 12c Certified
+
+f
+
+Implementation Specialist in 2023
+
+ivi
+
+LinkedIn: https://www.linkedin.com/in/anirudha-padhy-
+
+9 Profile Summary
+
+APr0; ect Undertaken
+
+(IT Product Organization.)
+
+Offering over 9.7 years of experience in DBA with Cloud Migration
+
+°
+
+Expert at managing data mappings for reports and web applications, data
+
+dictionaries, and entity relationship diagrams in support of the logical and
+
+conceptual relationships of data and database changes; installation and
+
+configuration of Oracle Database 12c, 18c,19c & Autonomous Database
+
+t
+
+Title: Shared
+
+Knowledge of Oracle Database Architecture, Exadata X8-2 quarter Rack
+
+Cloud Service IO
+
+I
+
+Machine, JIRA & Service Now, AWR, SQLT, SQLHC, COE, and AHF report
+
+for performance monitoring.
+
+Project
+
+Jan’15-Mar’20
+
+Technical analyst with expertise in engaging, challenging, and motivating
+
+Environment:
+
+individuals; track record of ensuring that the team provided a responsive
+
+Oracle 8i, 9i,
+
+and efficient service to internal and external customers
+
+| OED
+
+10g, 11g &12c
+
+Extensive experience in Performance Tuning of Databases, Capacity
+
+Planning,
+
+Disaster Recovery Planning,
+
+Backup and Recovery,
+
+and
+
+Configuration of Standby Databases for ensuring business continuity, DR
+
+activity & patch management.
+
+Oracle Cloud
+
+Understanding of ITIL processes like change management, ORACLE SR, and
+
+Mar'20 - Till
+
+CAB approval prior to Production DB activity
+
+Infrastructure
+
+Undertook strategy planning and implementation which had an impact on
+
+Construction
+
+technology direction for the division and business segment; managed
+
+PeGaeeaaae
+
+Project 12c,
+
+workload and multiple priorities in a fast-paced environment
+
+18c &19c
+
+ATP Database
+
+Expertise in planning, scheduling, and managing Oracle RMAN-based
+
+backup, restore, recovery strategy, and Logical backup expdp/impdp
+
+Worked on AWS RDS, S3, OCI console, Object Storage, ASM & ASM Disk
+
+Groups, RAC Database with two node data guard environment; generated
+
+database reports using OEM/OCM, Migration from on premise to Oracle
+
+Cloud and Oracle Cloud to Autonomous Database.
+
+Migrated Multi-terabyte (TB) Analytics and Reporting database Systems to
+
+Oracle 12cR2 to 18c/19c Real Application Clusters (RAC) on Storage Area
+
+Network (SAN) running on the Linux Platforms.
+
+An effective leader with proven expertise in leading teams during the project
+
+phase, training & guiding team members and enabling knowledge sharing
+
+among the team
+
+Boore Competencies
+
+Oracle DBA
+
+Database Administration (DBA)
+
+Technology Roadmap
+
+e@oe¢000000000060006060006
+
+eeeeneeneneeneee00e6020880006
+
+e#e200880000080680880000008680
+
+Database Design
+
+Database Maintenance & Support
+
+Extract, Transform & Load (ETL)
+
+eseveeeeeeoeeeseeeeeeee
+
+@0e600002000000008006080008
+
+e000000000880086808606860606
+
+Database Architecture
+
+Database Capacity
+
+DB Rollbacks
+
+e000000000880086808606860606
+
+e000000880000008868608066
+
+e#000200000086008000600000080
+
+Kir Skills
+
+Databases
+
+Oracle10g,11g,12c,18c &19c multitenant Arch, Postgre Database, AWS RDS,ATP
+
+Tools & Utilities
+
+SQLT,AHF,SQLHC,COE ,RMAN, AWR, SecureCRT, DataPump, OEM, ADDM, Exachk}
+
+Ticketing Tool
+
+JIRA, Service Now
+
+Wor ganization Experience
+
+Since Mar’ 20 with Oracle India Ltd, Bangalore as Senior Cloud Database Consultant
+
+Key Result Areas:
+
+© Led the creation and maintenance of all databases required for development, testing, training, and production usage
+
+Liaising with the Infrastructure Team for capacity planning of databases as well as ensuring that new product usage or
+
+release upgrades and quarterly patches take place with minimal impact.
+
+Performing database and application both as required assisting performance and ensuring maximum availabilities.
+
+Monitoring the administration of all database objects including tables, clusters, indexes, views, sequences, packages, and
+
+procedures; assessing the impact of changes made to database objects
+
+o Working on the roadmap to migrate the Oracle Cloud Database to an Autonomous Transaction Processing Database.
+
+Highlights:
+
+Planned and implemented measures for backup and recovery of the Oracle databases and ATPs
+
+°o
+
+Controlled migrations of programs, database changes, reference data changes, and menu changes through the
+
+development life cycle
+
+O°
+
+Enforced security of all the Oracle Databases; maintained database constraints to ensure the integrity of the database
+
+°
+
+Instituted standards to ensure that application design and code were produced with proper integrity, security, and
+
+performance; regularly reviewed design and code to ensure that site standards were adhered to
+
+=I Project Handled
+
+Since Mar’20
+
+Oracle India Pvt. Ltd.
+
+Senior Cloud DB Migration Engineer
+
+Product
+
+Cloud Infrastructure Construction Project(Primavera P6 & UNIFIER Product)
+
+Environment
+
+Oracle 12c,18c,19c RAC, Autonomous Database, LINUX, Kubernetes Cluster
+
+Key Result Areas:
+
+Actively working on migration project Non-Cloud Platform to Oracle Cloud Infrastructure (12c to 18c/19c)
+
+°
+
+Deployed new Oracle engine to Oracle Cloud and configured ODI tool to run ETL jobs. Configuring backup strategy for
+
+databases and giving end-to-end support to clients.
+
+°
+
+Worked extensively on performance tasks using SQLT (XTRACT, XCUTE, PROFILE) SQL Plan Transport, SBM, SPM
+
+package, AHF, Histogram, SQL Patch, SQL Profile, TKPROF, Secure CRT tool, AWR, SQL Tuning Advisor, SQL Tune Task
+
+°
+
+Led the setup and configuration of Oracle Physical Standby Database (Data Guard) with high-performance protection,
+
+working on two-node RAC database operations like cluster availability, load balancing, PSU and RUP patching,
+
+Accenture Solution Pvt. Ltd.
+
+Jan’15-Mar’20
+
+Cloud Operation Analyst
+
+Project
+
+Shared Cloud Service
+
+Environment
+
+Oracle 8i,9i ,10g,11g and 12c, RAC, Postgre, LINUX,
+
+Key Result Areas:
+
+°
+
+Managed and monitored Oracle Users, Roles, and Privileges & and created Database Objects, Data File Objects including
+
+Tablespace and Data Files, Object Sizing
+
+°
+
+Administrated planning, scheduling, and management of Oracle RMAN-backup, restore, recovery strategy, database &
+
+and schema refresh using Expdp & Impdp utilities
+
+°o
+
+Monitored the performance of databases daily by resolving the issues related to SGA components, File systems usage,
+
+releasing blocking sessions, lock waits undo, temp space issues, and so on; worked on a maintenance plan for the future
+
+availability of storage on user’s tablespaces
+
+Applied PSU patches quarterly basis recommended by Oracle for fixing bugs and vulnerabilities; worked on database up
+
+gradation from lower version 11g to higher version 12c and cloning the databases using RMAN Duplication and Hot
+
+Cloning Method
+
+Managing different restore and recovery scenarios using RMAN like partial database restore cross-database restore,
+
+conversion from non-ASM database to ASM database, and DNFS implementation for providing better performance in the
+
+1/0 level and reducing CPU utilization incident.
+
+Academic Details
+
+O mca (Master of Computer Application) from Indira Gandhi National Open University in 2013
+
+O Bca (Bachelor of Computer Application) from Indira Gandhi National Open University in 2011
+
+=I ersonal Details
+
+DOB: 3"4 March 1987
+
+Languages Known: English, Hindi &Oriya
+
+Address: 10/5-5 9th Cross Lakshmi Layout Gandhi Nagar, Munekolala Bangalore-560037
